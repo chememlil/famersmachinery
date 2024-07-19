@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Compact Tractors",
+      "description": "Ideal for smallholder farms and orchards, compact tractors are nimble and maneuverable, making them suitable for tasks like mowing, tilling, and light hauling.",
+      "image": "path_to_image_url",
+      "price": "$25,000"
+    },
+    {
+      "id": 2,
+      "name": "Utility Tractors",
+      "description": "These mid-range tractors are versatile, capable of handling a wide range of implements such as loaders, backhoes, and rotary cutters. They are suitable for general-purpose farm work, including plowing, planting, and landscaping.",
+      "image": "path_to_image_url",
+      "price": "$35,000"
+    },
+    {
+      "id": 3,
+      "name": "Row Crop Tractors",
+      "description": "Designed for row-crop farming systems, these tractors offer adjustable wheel spacing and specialized tires for navigating between crop rows without damaging plants. They excel in precision planting and spraying operations.",
+      "image": "path_to_image_url",
+      "price": "$40,000"
+    },
+    {
+      "id": 4,
+      "name": "Heavy-Duty Tractors",
+      "description": "High-horsepower tractors cater to large-scale operations and demanding tasks such as deep plowing, heavy hauling, and field preparation for extensive crop cultivation.",
+      "image": "path_to_image_url",
+      "price": "$60,000"
+    },
+    {
+      "id": 5,
+      "name": "Conventional Combine Harvesters",
+      "description": "Versatile machines capable of harvesting multiple grain crops like wheat, maize, and soybeans. They integrate harvesting, threshing, and cleaning operations into one pass, reducing labor costs and increasing efficiency.",
+      "image": "path_to_image_url",
+      "price": "$150,000"
+    },
+    {
+      "id": 6,
+      "name": "Specialized Harvesters",
+      "description": "Variants include rice combine harvesters optimized for paddy fields, equipped with features like flooded paddies and adjustable cutter bars for varying crop heights and conditions.",
+      "image": "path_to_image_url",
+      "price": "$180,000"
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Planters",
+      "description": "Suitable for small to medium-scale farms, offering precise seed placement and depth control for crops like maize, soybeans, and cotton.",
+      "image": "path_to_image_url",
+      "price": "$10,000"
+    },
+    {
+      "id": 8,
+      "name": "Precision Seeders",
+      "description": "Equipped with GPS and variable-rate technology, precision seeders adjust seed rates and spacing based on soil conditions and field variability, optimizing seed placement and minimizing wastage.",
+      "image": "path_to_image_url",
+      "price": "$25,000"
+    },
+    {
+      "id": 9,
+      "name": "Boom Sprayers",
+      "description": "Used for broad-acre applications, boom sprayers deliver pesticides and fertilizers over large fields with adjustable spray widths and precise application rates.",
+      "image": "path_to_image_url",
+      "price": "$15,000"
+    },
+    {
+      "id": 10,
+      "name": "Knapsack Sprayers",
+      "description": "Portable and versatile, knapsack sprayers are ideal for spot treatments and small plots, ensuring accurate chemical application while minimizing environmental impact.",
+      "image": "path_to_image_url",
+      "price": "$500"
+    },
+    {
+      "id": 11,
+      "name": "Drip Irrigation Systems",
+      "description": "These systems deliver water directly to the plant root zone, minimizing evaporation and runoff while maximizing water use efficiency for high-value crops like vegetables and orchards.",
+      "image": "path_to_image_url",
+      "price": "$20,000"
+    },
+    {
+      "id": 12,
+      "name": "Center Pivot Irrigation",
+      "description": "Suitable for large-scale farming, center pivot systems use rotating sprinklers to irrigate circular fields efficiently, ensuring uniform water distribution and crop health.",
+      "image": "path_to_image_url",
+      "price": "$100,000"
+    },
+    {
+      "id": 13,
+      "name": "Moldboard Plows",
+      "description": "Used for deep tillage and turning soil, moldboard plows break up compacted soil layers and incorporate organic matter to improve soil structure and drainage.",
+      "image": "path_to_image_url",
+      "price": "$8,000"
+    },
+    {
+      "id": 14,
+      "name": "Disc Harrows",
+      "description": "Disc harrows cut through crop residues and break up soil clumps, preparing a smooth seedbed for planting and promoting seed-to-soil contact.",
+      "image": "path_to_image_url",
+      "price": "$12,000"
+    },
+    {
+      "id": 15,
+      "name": "Round Balers",
+      "description": "These machines compact hay, straw, or silage into round bales, facilitating easy handling, storage, and transportation for livestock feed.",
+      "image": "path_to_image_url",
+      "price": "$20,000"
+    },
+    {
+      "id": 16,
+      "name": "Square Balers",
+      "description": "Square balers produce dense, rectangular bales suitable for stacking and efficient use of storage space, ensuring quality forage preservation.",
+      "image": "path_to_image_url",
+      "price": "$25,000"
+    },
+    {
+      "id": 17,
+      "name": "Vertical Feed Mixers",
+      "description": "These stationary mixers blend grains, protein supplements, and minerals efficiently, ensuring uniform feed distribution and nutritional consistency for livestock health and productivity.",
+      "image": "path_to_image_url",
+      "price": "$15,000"
+    },
+    {
+      "id": 18,
+      "name": "Robotic Milking Systems",
+      "description": "Robotic milking machines automate the milking process, offering flexibility for cows to be milked multiple times per day based on individual production and health metrics.",
+      "image": "path_to_image_url",
+      "price": "$150,000"
+    },
+    {
+      "id": 19,
+      "name": "Solar-Powered Water Pumps",
+      "description": "These pumps utilize solar energy to lift and distribute water for irrigation, reducing reliance on fossil fuels and operating costs.",
+      "image": "path_to_image_url",
+      "price": "$8,000"
+    },
+    {
+      "id": 20,
+      "name": "Solar-Powered Irrigation Systems",
+      "description": "Solar-powered pivots and drip systems provide reliable water delivery for crop irrigation, enhancing farm sustainability and productivity.",
+      "image": "path_to_image_url",
+      "price": "$25,000"
+    },
+    {
+      "id": 21,
+      "name": "Batch Dryers",
+      "description": "These systems dry grain in batches using heated air, reducing moisture content to prevent spoilage and maintain grain quality for longer storage periods.",
+      "image": "path_to_image_url",
+      "price": "$30,000"
+    }
+  ]
+}
